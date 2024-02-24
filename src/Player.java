@@ -55,7 +55,7 @@ public class Player {
 }
 
 
-
+//
  /*
  * @Override anahtar kelimesi, bir alt sınıfta bir üst sınıftaki bir metodun aynı isim ve imza ile tekrar tanımlanmasıdır.
  * Bu, alt sınıfın bu metodu geçersiz kıldığını (override) belirtir.

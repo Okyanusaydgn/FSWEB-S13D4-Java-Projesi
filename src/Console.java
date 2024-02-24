@@ -15,5 +15,6 @@ public class Console {
         System.out.println(emrah.healthRemaining());
         emrah.loseHealth(100);
         System.out.println(emrah.healthRemaining());
+        //
     }
 }
